@@ -10,7 +10,7 @@
 
   Pageflick is an e-commerce website for buying books online.
 
-  <a href="https://pawantech12.github.io/BookStore---Best-Ebook-website/"><strong>➥ Live Demo</strong></a>
+  
 
 </div>
 
