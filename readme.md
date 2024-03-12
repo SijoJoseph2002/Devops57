@@ -8,7 +8,7 @@
 
   <h2 align="center">Responsive BookStore Website</h2>
 
-  Bookoi is fully responsive Book Store website made using HTML, CSS, and JavaScript.
+  Pageflick is an e-commerce website for buying books online.
 
   <a href="https://pawantech12.github.io/BookStore---Best-Ebook-website/"><strong>➥ Live Demo</strong></a>
 
